@@ -8,7 +8,11 @@ First of all, we have to make a **screenshoot** at the end of Fifa 20 match whic
 
 ![Alt text](/Data/fifafut3.png?raw=true "Post-match ss example")
 
-To better understand what it does, you can check on above example what parts of images is taken to perfom further actions. Main statistics are marked in <div class='text-blue mb-2'> blue </div>
+Above example also shows us what parts of image are taken to perfom further actions (colored rectangles). Team name is needed to check if our team was playing home or away.
 
+Pre-processed images used by pytesseract to gather statistics can be seen below.
 
-
+![Alt text](/Examples/TeamNameExample.png?raw=true)
+![Alt text](/Examples/StatsExample.png?raw=true)
+![Alt text](/Examples/HomeScoreExample.png?raw=true)
+![Alt text](/Examples/AwayScoreExample.png?raw=true)
