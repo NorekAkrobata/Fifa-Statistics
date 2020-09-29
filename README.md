@@ -21,8 +21,11 @@ Pre-processed images used by pytesseract to gather statistics can be seen below.
 Gathered data is then placed into Pandas DataFrame. As mentioned we can either present data in form of Python Series, barcharts or export data into Excel. All examples can be find below.
 
 ![Alt text](/Examples/StatsSeriesExample.PNG?raw=true "StatsSeriesExample")
+
 ![Alt text](/Examples/StatsSmallExample.PNG?raw=true "StatsSmallExample")
+
 ![Alt text](/Examples/StatsBigExample.PNG?raw=true "StatsBigExample")
+
 ![Alt text](/Examples/StatsExcelExample.PNG?raw=true "StatsExcelExample")
 
 # Used Libraries
