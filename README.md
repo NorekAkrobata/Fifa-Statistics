@@ -14,6 +14,25 @@ Pre-processed images used by pytesseract to gather statistics can be seen below.
 
 ![Alt text](/Examples/TeamNameExample.PNG?raw=true "TeamNameExample")
 ![Alt text](/Examples/StatsExample.PNG?raw=true "StatsExample")
-![Alt text](/Examples/HomeScoreExample.PNG?raw=true "HomeScoreExample")
 
+![Alt text](/Examples/HomeScoreExample.PNG?raw=true "HomeScoreExample")
 ![Alt text](/Examples/AwayScoreExample.PNG?raw=true "AwayScoreExample")
+
+Gathered data is then placed into Pandas DataFrame. As mentioned we can either present data in form of Python Series, barcharts or export data into Excel. All examples can be find below.
+
+![Alt text](/Examples/StatsSeriesExample.PNG?raw=true "StatsSeriesExample")
+![Alt text](/Examples/StatsSmallExample.PNG?raw=true "StatsSmallExample")
+![Alt text](/Examples/StatsBigExample.PNG?raw=true "StatsBigExample")
+![Alt text](/Examples/StatsExcelExample.PNG?raw=true "StatsExcelExample")
+
+# Used Libraries
+- Pandas
+- Numpy
+- Matplotlib
+- OpenCV
+- Pytesseract
+
+# ToDo List
+- Update to FIFA 21 (October 2020)
+- Add possibility to differentiate game-modes
+- Add possibility to gather goals, assists, game ratings data for each player 
