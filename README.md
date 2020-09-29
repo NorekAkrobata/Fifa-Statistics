@@ -12,7 +12,7 @@ Above example also shows us what parts of image are taken to perfom further acti
 
 Pre-processed images used by pytesseract to gather statistics can be seen below.
 
-![Alt text](/Examples/TeamNameExample.png?raw=true "TeamNameExample")
-![Alt text](/Examples/StatsExample.png?raw=true "StatsExample")
-![Alt text](/Examples/HomeScoreExample.png?raw=true "HomeScoreExample")
-![Alt text](/Examples/AwayScoreExample.png?raw=true "AwayScoreExample")
+![Alt text](/Examples/TeamNameExample.PNG?raw=true "TeamNameExample")
+![Alt text](/Examples/StatsExample.PNG?raw=true "StatsExample")
+![Alt text](/Examples/HomeScoreExample.PNG?raw=true "HomeScoreExample")
+![Alt text](/Examples/AwayScoreExample.PNG?raw=true "AwayScoreExample")
