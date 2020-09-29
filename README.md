@@ -37,5 +37,7 @@ Gathered data is then placed into Pandas DataFrame. As mentioned we can either p
 
 # ToDo List
 - Update to FIFA 21 (October 2020)
+- Allow easy customization
 - Add possibility to differentiate game-modes
-- Add possibility to gather goals, assists, game ratings data for each player 
+- Add possibility to gather goals, assists, game ratings data for each player
+- Add possibility to manually add data
